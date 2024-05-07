@@ -1,0 +1,13 @@
+{
+    "grade_docs": "no",
+    "check_for_hallucinations": "yes",
+    "check_for_inconsistencies": "yes",
+    "print_logs": "no",
+    "urls": [
+        "https://smartvaults.github.io/book/",
+        "https://smartvaults.github.io/smartvaults-js-client/classes/SmartVaults.html",
+        "https://smartvaults.github.io/book/js-sdk/05-proposals/03-approvals.html",
+        "https://smartvaults.github.io/book/js-sdk/05-proposals/01-creating-proposals.html",
+        "https://smartvaults.github.io/book/js-sdk/04-vaults/02-creating-a-vault.html"
+    ]
+}
